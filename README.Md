@@ -3,7 +3,7 @@ Kinect3D
 
 This is a modification of the Microsoft Kinect SDK Skeleton examples using WPF 3D graphics.
 
-[![screenshot](https://github.com/countable/Kinect3D/raw/master/screenshot.png)](github.com)
+<img src="https://github.com/countable/Kinect3D/raw/master/screenshot.png" />
 
 # Usage #
 ````

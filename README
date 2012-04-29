@@ -1,0 +1,11 @@
+Kinect3D
+========
+
+This is a modification of the Microsoft Kinect SDK Skeleton examples using WPF 3D graphics.
+
+[![screenshot](screenshot.png)]
+
+# Usage #
+````
+git clone git@github.com:countable/Kinect3D.git
+````

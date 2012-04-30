@@ -8,10 +8,9 @@ This is a modification of the Microsoft Kinect SDK Skeleton examples using WPF 3
 # Usage #
 ````
 git clone git@github.com:countable/Kinect3D.git
-
+````
 [install the Microsoft Windows Kinect SDK](http://www.microsoft.com/en-us/kinectforwindows/)
 
-open Kinect3D/ShapeGame/ShapeGame.sln
+Open Kinect3D/ShapeGame/ShapeGame.sln
 
-stand infront of the Kinect to see the 3d skeleton.
-````
+Stand infront of the Kinect to see the 3d skeleton.
